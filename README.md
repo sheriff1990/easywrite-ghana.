@@ -144,7 +144,7 @@
       </div>
     </section>
 
-    <section id="contact" class="contact">
+    <section id="contact" class="contact">expensivejr93@gmail.com
       <h2>Let's Get Your Words Right</h2>
       <p>email us to discuss your writing needs.</p>
       <a class="button" href="mailto:expensivejr93@gmail.com?subject=EasyWrite%20Ghana%20Enquiry">
