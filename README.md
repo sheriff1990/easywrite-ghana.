@@ -146,7 +146,7 @@
 
     <section id="contact" class="contact">
       <h2>Let's Get Your Words Right</h2>
-      <p>Contact us to discuss your writing needs.</p>
+      <p>email us to discuss your writing needs.</p>
       <a class="button" href="mailto:expensivejr93@gmail.com?subject=EasyWrite%20Ghana%20Enquiry">
         Email EasyWrite Ghana
       </a>
